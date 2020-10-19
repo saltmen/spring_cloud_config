@@ -1,2 +1,2 @@
 server:
-  port: 1111
+  info: "master branch,spring_cloud_config application-dev.yml version=8"
